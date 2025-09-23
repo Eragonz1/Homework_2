@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Mainc.cpp">
+    <ClCompile Include="Mainc.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
